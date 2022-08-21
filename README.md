@@ -2,7 +2,7 @@
 Terminal Insanity Desktop Environment
 
 Important:-
-Tide is best run as an administrator using ‘sudo python3 Tide.py’ 
+Tide is best run as an administrator using ‘sudo python3 Tide.py’. 
 Xterm is required to use TIDE, Please install Xterm if you do not have it.
 The correct resolution for TIDE is 1600 x 900 or greater.
 

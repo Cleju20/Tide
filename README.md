@@ -1,5 +1,5 @@
 # Tide
-Terminal Insanity Desktop Environment - Created for Kali Linux
+Terminal Insanity Desktop Environment - Created for usage in Kali Linux
 
 Important:-
 Tide is best run as an administrator using ‘sudo python3 Tide.py’. 

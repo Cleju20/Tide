@@ -1245,7 +1245,7 @@ button1.bind()
 
 def buttonclick101445():
 	os.environ['e101'] = entry101.get()
-	os.popen('xterm -into %d -geometry 200x300 -fa "Monospace" -fs 10 -hold -e sudo wget "$e101"' % bbt888)  #maybe wget
+	os.popen('xterm -into %d -geometry 200x300 -fa "Monospace" -fs 10 -hold -e sudo wget -r "$e101"' % bbt888)  #maybe wget
 
 button1 = tk.Button(top122, text='Clone', command=lambda: buttonclick101445(), width=12, height=1)
 button1.grid(row=26, column=1, sticky=NSEW)
